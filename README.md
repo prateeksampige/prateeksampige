@@ -26,7 +26,7 @@ A web app that adjusts product pricing and delivery routes using algorithmic str
 
 ---
 
-### 📅 [Cadence – Smart Goal Planner](https://github.com/Ashwin18522/Cadence)  
+### 📅 [Cadence – Smart Goal Planner](https://github.com/Ashwin18522/Cadence_Tech_Tank)  
 A GenAI-based planner that generates adaptive schedules based on priorities and workloads.
 
 - **Why it matters**: Balancing academics and personal goals can be hectic—Cadence helps create flexible schedules to manage it better.
