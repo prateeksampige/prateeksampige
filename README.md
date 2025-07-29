@@ -17,7 +17,7 @@ A mobile application for analyzing machine performance and predicting future met
 
 ---
 
-### 🛒 [OptiCart – Smart E-Commerce Platform](https://github.com/prakhar811/OPTICART)  
+### 🛒 [OptiCart – Smart E-Commerce Platform](https://github.com/prakhar811/opticart_DAA)  
 A web app that adjusts product pricing and delivery routes using algorithmic strategies.
 
 - **Why it matters**: Small businesses often struggle to optimize pricing and delivery—OptiCart helps automate this to improve profitability.
