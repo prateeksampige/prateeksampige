@@ -8,10 +8,19 @@ I'm currently building and contributing to projects that apply these skills in m
 
 ## Projects
 
+### 🎯 [ElevateAI – AI-Powered Placement Preparation Platform](https://github.com/prateeksampige/ElevateAI)  
+A comprehensive platform for students to prepare for placements with AI-driven resume optimization, interview preparation, and job application management.
+
+- **Why it matters**: Placement preparation is overwhelming. ElevateAI provides personalized, data-driven guidance for resumes, interviews, and job applications.
+- **My role**: Built ML model for resume feature attribution using Bootstrap Ridge Regression on 40+ real student resumes, developed ATS scorer with semantic similarity and keyword matching, implemented AI-powered resume generation with LaTeX compilation, and designed the complete job application workflow.
+- **Tech Stack**: Python · Machine Learning · Svelte · Node.js · FastAPI · MongoDB · Ollama LLM
+
+---
+
 ### 🤖 [MachinSight – Machine Data Analysis Tool](https://github.com/Prajwal-T-A/MachinSight)  
 A mobile application for analyzing machine performance and predicting future metrics using regression and classification.
 
-- **Why it matters**: Analyzing machine data is difficult and often inaccessible—MachinSight makes it easier and more insightful.
+- **Why it matters**: Analyzing machine data is difficult and often inaccessible. MachinSight makes it easier and more insightful.
 - **My role**: Designed and trained ML models, including regression for productivity prediction and classification for error code detection.
 - **Tech Stack**: Python · Machine Learning · Data Analytics · Flutter
 
@@ -20,7 +29,7 @@ A mobile application for analyzing machine performance and predicting future met
 ### 🛒 [OptiCart – Smart E-Commerce Platform](https://github.com/prakhar811/opticart_DAA)  
 A web app that adjusts product pricing and delivery routes using algorithmic strategies.
 
-- **Why it matters**: Small businesses often struggle to optimize pricing and delivery—OptiCart helps automate this to improve profitability.
+- **Why it matters**: Small businesses often struggle to optimize pricing and delivery. OptiCart helps automate this to improve profitability.
 - **My role**: Implemented backend pricing logic using a greedy approach; integrated Firebase and contributed to frontend development.
 - **Tech Stack**: React.js · Node.js · Firebase · Google APIs · Algorithms
 
@@ -29,7 +38,7 @@ A web app that adjusts product pricing and delivery routes using algorithmic str
 ### 📅 [Cadence – Smart Goal Planner](https://github.com/Ashwin18522/Cadence_Tech_Tank)  
 A GenAI-based planner that generates adaptive schedules based on priorities and workloads.
 
-- **Why it matters**: Balancing academics and personal goals can be hectic—Cadence helps create flexible schedules to manage it better.
+- **Why it matters**: Balancing academics and personal goals can be hectic. Cadence helps create flexible schedules to manage it better.
 - **My role**: Worked on calendar integration for displaying schedules and converting academic PDFs into CSV for easier parsing.
 - **Tech Stack**: Streamlit · Google GenAI · Python
 
